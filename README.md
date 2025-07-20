@@ -10,7 +10,7 @@ This depository contains collected data and statistical analyses associated with
 - `obj2_dat.RDS`: Microbial counts collected from the experiments.
 - `80211_2022_1_1_2024.csv`: Average daily weather data.
 
-All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230137](https://doi.org/10.5281/zenodo.16230137).
+All the files are archived on Zenodo: [[https://doi.org/10.5281/zenodo.16230137]([https://doi.org/10.5281/zenodo.16230597])]
 
 ### 📊 Data Structure
 
