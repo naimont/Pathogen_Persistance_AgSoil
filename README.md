@@ -22,7 +22,7 @@ All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230597](
 |microbe|Categorical|Microbial groups|
 |replicate|Numerical|Number of each biological replicate|
 |survival|Numerical|Microbial survival
-|temp|Categorical|Temperature in which the water samples were incubated (set to 12ºC)|
+|temp|Categorical|Temperature in which the soil samples were incubated (set to 12ºC)|
 |week|Numerical|Sampling intervals in weeks|
 |week_fac|Categorical|Sampling intervals in weeks|
 |month|Numerical|month|
