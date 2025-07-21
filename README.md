@@ -1,7 +1,7 @@
 # Pathogen_Persistance_AgSoil
 This depository contains collected data and statistical analyses associated with the study on the persistence of enteric pathogens in agricultural soil. This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-### 📁 Code and Output
+### :file_folder: Code and Output
 
 - `Obj2_modeling_NM071925.pdf`: Rendered R scripts and statistical outputs supporting this research.
 
@@ -31,7 +31,7 @@ All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230597](
 |mean_Temp_c|Numerical|Average daily temperature (ºC)|
 |sd|Numerical|Standard deviation|
 
-## 🧾 Categorical Variables Levels
+## :file_folder: Categorical Variables Levels
 |Category  | Levels        | Description        | Unit|
 |----  |-----------|--------------------|-----|
 |assay|plate|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/g|
