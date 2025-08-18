@@ -1,8 +1,6 @@
 # Pathogen_Persistance_AgSoil
 This depository contains data and statistical analyses from a study on the persistence of enteric pathogens in agricultural soil.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 ### :memo: Citation
 - If you use this repository, please cite the manuscript (currently under review).
 
@@ -40,3 +38,6 @@ The following data files are included in this repository and permanently archive
 |`microbe`|`ec`|Enteric bacteria: _Escherichia coli_ TVS 353|-|
 ||`nv`|Enteric virus: Human norovirus GII (HuNoV GII)|-|
 ||`tv`|Enteric virus: Tulane virus (a surrogate for human norovirus)|-|
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
