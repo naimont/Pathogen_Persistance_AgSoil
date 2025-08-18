@@ -34,7 +34,7 @@ The following data files are included in this repository and permanently archive
 ## :file_folder: Categorical Variables Levels for Microbial Data
 |Category  | Levels        | Description        | Unit|
 |----  |-----------|--------------------|-----|
-|`assay`|`plate`|*Total* plate count| log<sub>10</sub> Colony-Forming Units (CFU)/g|
+|`assay`|`plate`|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/g|
 ||`tcid50`|50% Tissue Culture Infectious Dose (TCID<sub>50</sub>)| log<sub>10</sub> TCID<sub>50</sub>/g|
 ||`pcr`|RNase RT-qPCR| log<sub>10</sub> Genome Copies (GC)/g|
 |`matrix`|`p`|Soil samples without decaying plant materials, served as control sample|-|
