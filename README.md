@@ -3,13 +3,13 @@ This depository contains data and statistical analyses from a study on the persi
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16230597.svg)](https://doi.org/10.5281/zenodo.16230597) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## 📜 License  
+## :scroll: License  
 This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-### :memo: Citation
+## :memo: Citation
 - If you use this repository, please cite the manuscript (currently under review).
 
-### :file_folder: Code and Output
+## :file_folder: Code and Output
 - `Obj2_modeling_NM081725.pdf`: Rendered R scripts and outputs supporting this research. 
 
 ## 📊 Data Files
