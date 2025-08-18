@@ -1,8 +1,9 @@
 # Pathogen_Persistance_AgSoil
-This depository contains collected data and statistical analyses associated with the study on the persistence of enteric pathogens in agricultural soil. This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+This depository contains data and statistical analyses from a study on the persistence of enteric pathogens in agricultural soil.  This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ### :memo: Manuscript: TBA
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16230597.svg)](https://doi.org/10.5281/zenodo.16230597)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ### :file_folder: Code and Output
 
 - `Obj2_modeling_NM081725.pdf`: Rendered R scripts and statistical outputs supporting this research.
@@ -15,7 +16,7 @@ This depository contains collected data and statistical analyses associated with
 
 All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230597](https://doi.org/10.5281/zenodo.16230597)
 
-### 📊 Data Structure for microbial data
+### 📊 Data Structure for Microbial Data
 
 | Column Name        | Type        | Description |
 |--------------------|-------------|-------------|
@@ -34,7 +35,7 @@ All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230597](
 |mean_Temp_c|Numerical|Average daily temperature (ºC)|
 |sd|Numerical|Standard deviation|
 
-## :file_folder: Categorical variables levels for microbial data
+## :file_folder: Categorical Variables Levels for Microbial Data
 |Category  | Levels        | Description        | Unit|
 |----  |-----------|--------------------|-----|
 |assay|plate|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/g|
