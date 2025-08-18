@@ -1,18 +1,21 @@
 # Pathogen_Persistance_AgSoil
 This depository contains collected data and statistical analyses associated with the study on the persistence of enteric pathogens in agricultural soil. This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
+### :memo/pencil: Manuscript: TBA
+
 ### :file_folder: Code and Output
 
-- `Obj2_modeling_NM071925.pdf`: Rendered R scripts and statistical outputs supporting this research.
+- `Obj2_modeling_NM081725.pdf`: Rendered R scripts and statistical outputs supporting this research.
 
 ## 📊 Data Files
 
-- `obj2_dat.RDS`: Microbial counts collected from the experiments.
-- `80211_2022_1_1_2024.csv`: Average daily weather data.
+- `obj2_dat.RDS`: Microbial data collected from the experiments.
+- `FAWN_report_2022_2025 daily.csv`: Average daily weather/soil data.
+- `FAWN_report_seven_day_hourly.csv`: Average hourly weather/soil data, 7 days before the sampling date.
 
 All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230597](https://doi.org/10.5281/zenodo.16230597)
 
-### 📊 Data Structure
+### 📊 Data Structure for microbial data
 
 | Column Name        | Type        | Description |
 |--------------------|-------------|-------------|
@@ -31,7 +34,7 @@ All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230597](
 |mean_Temp_c|Numerical|Average daily temperature (ºC)|
 |sd|Numerical|Standard deviation|
 
-## :file_folder: Categorical Variables Levels
+## :file_folder: Categorical variables levels for microbial data
 |Category  | Levels        | Description        | Unit|
 |----  |-----------|--------------------|-----|
 |assay|plate|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/g|
