@@ -4,7 +4,7 @@ This depository contains data and statistical analyses from a study on the persi
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ### :memo: Citation
-- If you use this repository, **please cite both the manuscript**:
+- If you use this repository, please cite the manuscript (currently under review).
 
 ### :file_folder: Code and Output
 - `Obj2_modeling_NM081725.pdf`: Rendered R scripts and outputs supporting this research. 
