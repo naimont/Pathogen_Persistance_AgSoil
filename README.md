@@ -13,7 +13,7 @@ This depository contains data and statistical analyses from a study on the persi
 
 ## 📊 Data Files
 The following data files are included in this repository and permanently archived on Zenodo ([DOI: 10.5281/zenodo.16230597](https://doi.org/10.5281/zenodo.16230597)):  
-- `obj2_dat.RDS`: Raw microbial data collected during experiments.  
+- `obj2_dat.RDS`: Triplicate microbial data collected during experiments.  
 - `FAWN_report_2022_2025_daily.csv`: Average daily weather and soil data.  
 - `FAWN_report_seven_day_hourly.csv`: Average hourly weather and soil data from 7 days before each sampling date.  
 
