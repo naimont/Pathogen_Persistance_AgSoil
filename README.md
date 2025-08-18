@@ -23,7 +23,7 @@ The following data files are included in this repository and permanently archive
 | Column Name        | Type        | Description |
 |--------------------|-------------|-------------|
 |day|Numerical|Sampling intervals in days
-|assay|Categorical|The assays used for the quantification of each microbial target|
+|`assay`|Categorical|The assays used for the quantification of each microbial target|
 |matrix|Categorical|Microbe-suspended matrix to be studied|
 |microbe|Categorical|Microbial groups|
 |replicate|Numerical|Number of each biological replicate|
