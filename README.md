@@ -2,10 +2,9 @@
 This depository contains data and statistical analyses from a study on the persistence of enteric pathogens in agricultural soil.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16230597.svg)](https://doi.org/10.5281/zenodo.16230597)
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-### :memo: Manuscript:
+### :memo: Manuscript for citation
 - The associated manuscript is under review and will be linked here once available.  
 
 ### :file_folder: Code and Output
@@ -23,7 +22,7 @@ The following data files are included in this repository and permanently archive
 | Column Name        | Type        | Description |
 |--------------------|-------------|-------------|
 |day|Numerical|Sampling intervals in days
-|`assay`|Categorical|The assays used for the quantification of each microbial target|
+|assay|Categorical|The assays used for the quantification of each microbial target|
 |matrix|Categorical|Microbe-suspended matrix to be studied|
 |microbe|Categorical|Microbial groups|
 |replicate|Numerical|Number of each biological replicate|
