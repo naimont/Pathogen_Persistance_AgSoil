@@ -1,18 +1,16 @@
 # Pathogen_Persistance_AgSoil
 This depository contains data and statistical analyses from a study on the persistence of enteric pathogens in agricultural soil.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16230597.svg)](https://doi.org/10.5281/zenodo.16230597)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-### :memo: Manuscript for citation
-- The associated manuscript is under review and will be linked here once available.  
+### :memo: Citation
+- If you use this repository, **please cite both the manuscript**:
 
 ### :file_folder: Code and Output
-
 - `Obj2_modeling_NM081725.pdf`: Rendered R scripts and outputs supporting this research. 
 
 ## 📊 Data Files
-The following data files are included in this repository and permanently archived on Zenodo ([DOI: 10.5281/zenodo.16230597](https://doi.org/10.5281/zenodo.16230597)):  
+The following data files are included in this repository and permanently archived on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16230597.svg)](https://doi.org/10.5281/zenodo.16230597)
 - `obj2_dat.RDS`: Triplicate microbial data collected during experiments.  
 - `FAWN_report_2022_2025_daily.csv`: Average daily weather and soil data.  
 - `FAWN_report_seven_day_hourly.csv`: Average hourly weather and soil data from 7 days before each sampling date.  
