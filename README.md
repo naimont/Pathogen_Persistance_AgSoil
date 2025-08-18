@@ -1,9 +1,11 @@
 # Pathogen_Persistance_AgSoil
-This depository contains data and statistical analyses from a study on the persistence of enteric pathogens in agricultural soil.  This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+This depository contains data and statistical analyses from a study on the persistence of enteric pathogens in agricultural soil.
 
-### :memo: Manuscript: TBA
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16230597.svg)](https://doi.org/10.5281/zenodo.16230597)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+### :memo: Manuscript: TBA
+
 ### :file_folder: Code and Output
 
 - `Obj2_modeling_NM081725.pdf`: Rendered R scripts and statistical outputs supporting this research.
@@ -13,8 +15,6 @@ This depository contains data and statistical analyses from a study on the persi
 - `obj2_dat.RDS`: Microbial data collected from the experiments.
 - `FAWN_report_2022_2025 daily.csv`: Average daily weather/soil data.
 - `FAWN_report_seven_day_hourly.csv`: Average hourly weather/soil data, 7 days before the sampling date.
-
-All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.16230597](https://doi.org/10.5281/zenodo.16230597)
 
 ### 📊 Data Structure for Microbial Data
 
