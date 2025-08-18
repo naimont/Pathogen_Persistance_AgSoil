@@ -1,7 +1,7 @@
 # Pathogen_Persistance_AgSoil
 This depository contains collected data and statistical analyses associated with the study on the persistence of enteric pathogens in agricultural soil. This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-### :memo/pencil: Manuscript: TBA
+### :memo: Manuscript: TBA
 
 ### :file_folder: Code and Output
 
