@@ -38,8 +38,8 @@ The following data files are included in this repository and permanently archive
 |`assay`|`plate`|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/g|
 ||`tcid50`|50% Tissue Culture Infectious Dose (TCID<sub>50</sub>)| log<sub>10</sub> TCID<sub>50</sub>/g|
 ||`pcr`|RNase RT-qPCR| log<sub>10</sub> Genome Copies (GC)/g|
-|`matrix`|`p`|Soil samples without decaying plant materials, served as control sample|-|
-||`ps`|Soil samples without decaying plant materials|-|
+|`matrix`|`p`|Soil without decaying plant materials, served as control |-|
+||`ps`|Soil with decaying plant materials|-|
 |`microbe`|`ec`|Enteric bacteria: _Escherichia coli_ TVS 353|-|
 ||`nv`|Enteric virus: Human norovirus GII (HuNoV GII)|-|
 ||`tv`|Enteric virus: Tulane virus (a surrogate for human norovirus)|-|
