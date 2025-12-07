@@ -7,7 +7,7 @@ This depository contains datasets, R code, and outputs from a study on the persi
 This work is licensed under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ## :memo: Citation
-- If you use this repository, please cite the manuscript:
+- If you use this repository, please cite the manuscript (in-production):
   Yusuf et al. Human norovirus persists longer than _Escherichia coli_ in sandy soil, independent of plant decaying materials.
   Scientific Reports. [DOI : 10.1038/s41598-025-31728-1](https://doi.org/10.1038/s41598-025-31728-1)
 
