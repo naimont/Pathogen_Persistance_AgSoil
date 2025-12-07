@@ -9,7 +9,7 @@ This work is licensed under the [Creative Commons CC BY 4.0 license](https://cre
 ## :memo: Citation
 - If you use this repository, please cite the manuscript (in-production):
   Yusuf et al. Human norovirus persists longer than _Escherichia coli_ in sandy soil, independent of plant decaying materials.
-  Scientific Reports. [DOI : 10.1038/s41598-025-31728-1](https://doi.org/10.1038/s41598-025-31728-1).
+  _Scientific Reports_. [DOI : 10.1038/s41598-025-31728-1](https://doi.org/10.1038/s41598-025-31728-1).
 
 ## :file_folder: Code and Output
 - `Obj2_modeling_NM081725.pdf`: Rendered R scripts and outputs supporting this research. 
