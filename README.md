@@ -1,5 +1,5 @@
 # Pathogen_Persistance_AgSoil
-This depository contains datasets, R code, and outputs from a study on the persistence of enteric pathogens in agricultural soil.
+This depository contains datasets, R scripts, and outputs from a study on the persistence of enteric pathogens in agricultural soil.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16230597.svg)](https://doi.org/10.5281/zenodo.16230597) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
